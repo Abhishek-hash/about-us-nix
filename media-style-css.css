@@ -13,10 +13,6 @@
     width: 100%;
   }
 
-  .section-1 {
-    margin-bottom: 20px;
-  }
-
   .grid-wrapper {
     grid-template-columns: repeat(1, 1fr);
     gap: 20px;
@@ -60,7 +56,6 @@
 
   .section-2 {
     align-items: center;
-    margin-bottom: 20px;
   }
 
   .founder-div button {
@@ -679,7 +674,7 @@
 
   .section-2 {
     align-items: center;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
   }
 
   .founder-img-div img {
