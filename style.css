@@ -32,7 +32,7 @@ h1 {
   justify-content: center;
   align-items: center;
   padding: 0px 0 20px 0;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 
 .grid-wrapper {
@@ -84,7 +84,7 @@ h1 {
   justify-content: center;
   align-items: flex-start;
   gap: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 
 .about-us-para h1 {
@@ -120,6 +120,10 @@ h1 {
   color: white;
   font-weight: 600;
   border: none;
+}
+
+.section-3 {
+  margin-bottom: 40px;
 }
 
 .section-3 h1 {
